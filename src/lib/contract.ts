@@ -8,6 +8,6 @@ export const erc8021DataSuffix = "0x" as Hex;
 export const hasContractAddress =
   /^0x[a-fA-F0-9]{40}$/.test(recipeStampContractAddress);
 
-export const hasAttributionSuffix = /^0x([a-fA-F0-9]{2})+$/.test(
+export const hasAttributionSuffix = /^0x([a-fA-F0-9]{2})*$/.test(
   erc8021DataSuffix,
 );

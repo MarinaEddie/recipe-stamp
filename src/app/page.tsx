@@ -181,7 +181,7 @@ export default function Home() {
         address: recipeStampContractAddress,
         abi: recipeStampAbi,
         functionName: method,
-        dataSuffix: erc8021DataSuffix,
+        ...(erc8021DataSuffix === "0x" ? {} : { dataSuffix: erc8021DataSuffix }),
       });
 
       await waitForTransactionReceipt(wagmiConfig, { hash });
