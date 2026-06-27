@@ -77,3 +77,11 @@ npm run build
 Start the production server:
 
 ```bash
+npm run start
+```
+
+## Configuration
+
+Before deploying to production, review the project configuration files.
+
+Update the Base Mini App verification placeholder in:
