@@ -139,3 +139,12 @@ Run the app locally before making deployment changes.
 Confirm that the configured contract address points to the intended Base deployment.
 
 Verify that the ERC-8021 encoded suffix value matches the contract integration requirements.
+
+Keep contract configuration changes isolated and easy to review.
+
+## Build Checklist
+
+Before production deployment:
+
+- Install dependencies
+- Configure the Base Mini App verification value
