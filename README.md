@@ -109,3 +109,9 @@ Make sure all deployment-specific values are correct before building or publishi
 The UI is intentionally limited to the supported recipe stamp actions.
 
 The available write actions are:
+
+- `Stamp Sweet`
+- `Stamp Spicy`
+- `Stamp Fresh`
+
+No additional contract write actions are exposed in the interface.
