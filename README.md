@@ -93,3 +93,11 @@ src/app/layout.tsx
 Replace the contract address placeholder in:
 
 ```text
+src/lib/contract.ts
+```
+
+Replace the ERC-8021 encoded data suffix placeholder in:
+
+```text
+src/lib/contract.ts
+```
