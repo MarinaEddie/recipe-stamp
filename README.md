@@ -101,3 +101,11 @@ Replace the ERC-8021 encoded data suffix placeholder in:
 ```text
 src/lib/contract.ts
 ```
+
+Make sure all deployment-specific values are correct before building or publishing the app.
+
+## Contract Interaction
+
+The UI is intentionally limited to the supported recipe stamp actions.
+
+The available write actions are:
