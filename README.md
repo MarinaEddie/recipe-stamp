@@ -131,3 +131,11 @@ src/lib/contract.ts
 ```
 
 Used for contract-related configuration, including the deployed contract address and encoded suffix value.
+
+## Development Notes
+
+Run the app locally before making deployment changes.
+
+Confirm that the configured contract address points to the intended Base deployment.
+
+Verify that the ERC-8021 encoded suffix value matches the contract integration requirements.
