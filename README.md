@@ -115,3 +115,11 @@ The available write actions are:
 - `Stamp Fresh`
 
 No additional contract write actions are exposed in the interface.
+
+## Project Structure
+
+Key files include:
+
+```text
+src/app/layout.tsx
+```
