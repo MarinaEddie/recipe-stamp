@@ -85,3 +85,11 @@ npm run start
 Before deploying to production, review the project configuration files.
 
 Update the Base Mini App verification placeholder in:
+
+```text
+src/app/layout.tsx
+```
+
+Replace the contract address placeholder in:
+
+```text
