@@ -14,3 +14,11 @@ The app focuses on three supported stamp actions:
 
 - `Stamp Sweet`
 - `Stamp Spicy`
+- `Stamp Fresh`
+
+These are the only contract write actions exposed by the UI.
+
+## Features
+
+- Base Mini App structure
+- Next.js application framework
