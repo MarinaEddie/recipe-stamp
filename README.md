@@ -123,3 +123,11 @@ Key files include:
 ```text
 src/app/layout.tsx
 ```
+
+Used for app-level layout and Base Mini App metadata configuration.
+
+```text
+src/lib/contract.ts
+```
+
+Used for contract-related configuration, including the deployed contract address and encoded suffix value.
