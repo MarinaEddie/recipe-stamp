@@ -29,3 +29,12 @@ These are the only contract write actions exposed by the UI.
 - Configuration points for deployment-specific values
 
 ## Tech Stack
+
+- Next.js
+- TypeScript
+- Wagmi
+- Viem
+- Tailwind CSS
+- Base
+
+## Getting Started
