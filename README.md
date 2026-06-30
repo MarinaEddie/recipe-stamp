@@ -146,3 +146,11 @@ Keep contract configuration changes isolated and easy to review.
 Test each supported stamp action after configuration changes.
 
 Avoid exposing unsupported contract actions in the interface.
+
+## Build Checklist
+
+Before production deployment:
+
+- Install dependencies
+- Configure the Base Mini App verification value
+- Configure the deployed Base contract address
