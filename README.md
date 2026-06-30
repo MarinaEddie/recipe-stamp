@@ -113,3 +113,10 @@ The available write actions are:
 
 - `Stamp Sweet`
 - `Stamp Spicy`
+- `Stamp Fresh`
+
+These are the only contract write actions exposed by the interface.
+
+## Project Structure
+
+Key files include:
