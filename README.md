@@ -46,3 +46,11 @@ Clone the repository:
 git clone https://github.com/MarinaEddie/recipe-stamp.git
 cd recipe-stamp
 ```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
