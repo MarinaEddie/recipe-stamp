@@ -136,3 +136,13 @@ This file is used for contract-related configuration, including the deployed con
 ## Development Notes
 
 Run the app locally before making deployment changes.
+
+Confirm that the configured contract address points to the intended Base deployment.
+
+Verify that the ERC-8021 encoded suffix value matches the contract integration requirements.
+
+Keep contract configuration changes isolated and easy to review.
+
+Test each supported stamp action after configuration changes.
+
+Avoid exposing unsupported contract actions in the interface.
