@@ -129,3 +129,10 @@ This file is used for the app-level layout and Base Mini App metadata configurat
 
 ```text
 src/lib/contract.ts
+```
+
+This file is used for contract-related configuration, including the deployed contract address and encoded suffix value.
+
+## Development Notes
+
+Run the app locally before making deployment changes.
