@@ -72,3 +72,11 @@ npm run dev
 Create a production build:
 
 ```bash
+npm run build
+```
+
+Start the production server:
+
+```bash
+npm run start
+```
