@@ -88,3 +88,11 @@ Before deploying the app, review the deployment-specific configuration values.
 Update the Base Mini App verification placeholder in:
 
 ```text
+src/app/layout.tsx
+```
+
+Replace the contract address placeholder in:
+
+```text
+src/lib/contract.ts
+```
