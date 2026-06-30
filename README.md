@@ -39,3 +39,10 @@ No other contract write actions are presented in the UI.
 - Base
 
 ## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/MarinaEddie/recipe-stamp.git
+cd recipe-stamp
+```
