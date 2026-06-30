@@ -14,3 +14,12 @@ The interface exposes only the supported recipe-style stamp actions:
 
 - `Stamp Sweet`
 - `Stamp Spicy`
+- `Stamp Fresh`
+
+No other contract write actions are presented in the UI.
+
+## Features
+
+- Base Mini App structure
+- Next.js application framework
+- TypeScript for safer development
