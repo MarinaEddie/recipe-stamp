@@ -23,3 +23,10 @@ No other contract write actions are presented in the UI.
 - Base Mini App structure
 - Next.js application framework
 - TypeScript for safer development
+- Wagmi and Viem for contract interaction
+- Tailwind CSS for styling
+- Minimal interface focused on recipe stamp actions
+- Configuration points for deployment-specific values
+- Clear separation between app layout and contract configuration
+
+## Tech Stack
