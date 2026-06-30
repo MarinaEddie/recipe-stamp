@@ -120,3 +120,12 @@ These are the only contract write actions exposed by the interface.
 ## Project Structure
 
 Key files include:
+
+```text
+src/app/layout.tsx
+```
+
+This file is used for the app-level layout and Base Mini App metadata configuration.
+
+```text
+src/lib/contract.ts
