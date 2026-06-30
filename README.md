@@ -154,3 +154,11 @@ Before production deployment:
 - Install dependencies
 - Configure the Base Mini App verification value
 - Configure the deployed Base contract address
+- Configure the ERC-8021 encoded data suffix
+- Run a production build
+- Test the stamp actions in the intended environment
+- Review configuration changes before publishing
+
+## License
+
+No license information is currently provided in the original project README.
