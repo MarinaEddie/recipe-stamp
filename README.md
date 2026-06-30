@@ -96,3 +96,11 @@ Replace the contract address placeholder in:
 ```text
 src/lib/contract.ts
 ```
+
+Replace the ERC-8021 encoded data suffix placeholder in:
+
+```text
+src/lib/contract.ts
+```
+
+Make sure all deployment-specific values are correct before building or publishing the app.
