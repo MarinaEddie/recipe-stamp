@@ -30,3 +30,12 @@ No other contract write actions are presented in the UI.
 - Clear separation between app layout and contract configuration
 
 ## Tech Stack
+
+- Next.js
+- TypeScript
+- Wagmi
+- Viem
+- Tailwind CSS
+- Base
+
+## Getting Started
